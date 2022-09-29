@@ -18,8 +18,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/sergichokheli/NFT-preview-card-component)
+- Live Site URL: [Live ](https://sergichokheli.github.io/NFT-preview-card-component/)
 
 ## My process
 
@@ -35,4 +35,4 @@
 
 ## Author
 
-- Linkedin - [@yourusername](https://www.linkedin.com/in/sergichokheli/)
+- Linkedin - [@sergichokheli](https://www.linkedin.com/in/sergichokheli/)
