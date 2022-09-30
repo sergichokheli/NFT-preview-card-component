@@ -2,27 +2,7 @@
 /* ------------ Fonts
 /*----------------------------*/
 
-@font-face {
-  font-family: Outfit;
-  font-style: Light;
-  font-weight: 300;
-  font-display: swap;
-  src: url(./fonts/Outfit-Light.woff2) format("woff2");
-}
-@font-face {
-  font-family: Outfit;
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(./fonts/Outfit-Regular.woff2) format("woff2");
-}
 
-@font-face {
-  font-family: Outfit;
-  font-style: Bold;
-  font-weight: 600;
-  font-display: swap;
-  src: url(./fonts/Outfit-SemiBold.woff2) format("woff2");
 }
 /*----------------------------*/
 /* ------------ Base Styles
@@ -39,7 +19,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: "Outfit", sans-serif;
+  font-family: "Outfit", sans-serif;
 }
 
 .card {
@@ -79,6 +59,7 @@ body {
 }
 
 h3 {
+  font-family: Outfit;
   margin-top: 1.5rem;
   font-size: 20px;
   font-weight: 600;
